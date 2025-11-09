@@ -1,0 +1,5 @@
+{
+  "name": "Venta Maestra",
+  "description": "An application to manage and display businesses by category, featuring filtering, location linking, and item deletion capabilities.",
+  "requestFramePermissions": []
+}
